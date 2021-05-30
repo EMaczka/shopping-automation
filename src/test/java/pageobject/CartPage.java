@@ -1,5 +1,7 @@
 package pageobject;
 
+//item
+
 public class CartPage {
-    //if correct product is in cart
+    //boolean isCorrectItemInCart()
 }
